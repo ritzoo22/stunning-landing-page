@@ -1,0 +1,150 @@
+.logo {
+    width: 150px;
+    height: 50px;
+}
+
+nav {
+    margin-top: 50px;
+    margin-left: 50px;
+    display: inline-flex;
+}
+
+.top-button {
+    margin-left: 180px;
+    border-radius: 20px;
+    color: #A389CC;
+    background-color: #FFD8DB;
+    padding: 1px 20px;
+    border-color: transparent;
+    width: 150px;
+    height: 50px;
+
+}
+
+.top-button:hover {
+    color: black;
+    background-color: white;
+    border: 1px solid #A389CC;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 200px;
+
+}
+
+.middle-button {
+    color: #ffff;
+    background-color: #5243C0;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 200px;
+    border-color: transparent;
+    margin-top: 15px;
+
+}
+
+.middle-button:hover {
+    background-color: white;
+    color: #5243C0;
+    border: 1px solid #5243C0;
+}
+
+p {
+    margin-left: 200px;
+}
+
+.arrow {
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+
+.btn {
+    display: flex;
+}
+
+.card {
+    display: flex;
+    width: 400px;
+    height: 50px;
+    background-color: #F8F8F8;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.card:hover {
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.tick {
+
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin-left: 20px;
+}
+
+.user {
+    margin-left: 20px;
+    width: 25px;
+    height: 25px;
+    margin-top: 15px;
+}
+
+.user-button {
+    margin-left: 20px;
+    width: 20px;
+    height: 10px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.option {
+    margin-top: 150px;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    margin-left: 100px;
+    position: relative;
+    padding-bottom: 100px;
+    padding-right: 80px;
+    height: 20%;
+    
+
+}
+
+
+.main {
+    display: inline-block;
+}
+
+.nav-bar {
+    color: gray;
+    font-size: large;
+
+
+}
+
+.nav-bar:hover {
+    text-decoration: underline;
+    text-decoration-color: #5243C0;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 10px;
+    color: black;
+
+
+}
+
+body {}
